@@ -14,7 +14,7 @@ Permite realizar operaciones comunes como:
 Clona el repositorio y ejecuta el programa con:
 
 ```bash
-python tienda.py
+python3 main.py
 📂 Archivos generados
 Al hacer un corte de caja, se crea un archivo de texto en la carpeta del proyecto con el formato:
 
